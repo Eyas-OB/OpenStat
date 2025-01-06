@@ -2,4 +2,4 @@
 
 This is the hub for my project. Use the links below to explore:
 
-- [Hypotheses Test](hypotheses-test.md)
+  - [Hypothesis Testing](Hypothesis.md)
