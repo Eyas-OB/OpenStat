@@ -25,9 +25,9 @@
 ## 3 hypothesis test
  - Now we are going to test the claim from step 1 using data in our sample. 
  - First to test our claim we will need to establish our assumptions in hypothesis testing we have 2 assumptions. 
- - **Null hypotheses: $h_0$**
+ - **Null hypotheses: H0:
  - The null hypothesis is what we hold to be true in this case what we hold to be true is the drug has no effect on blood pressure.  
- - **alternative hypothesis: $h_a$**  
+ - **alternative hypothesis: Ha:  
  - When we do a hypothesis test our alternative hypothesis is what we are trying to prove so in this case we want to prove that the drug has an effect on blood pressure. 
 
 ## 4 find p value
