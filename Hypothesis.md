@@ -3,7 +3,7 @@
 - [Hypothesis Testing](#hypothesis-testing)
   - [When do we want to use a Hypothesis test?](#when-do-we-want-to-use-a-hypothesis-test)
   - [1.) Make Claim](#1-make-claim)
-  - [2.) Population and Aample](#2-population-and-aample)
+  - [2.) Population and Sample](#2-population-and-sample)
   - [3.) Hypothesis Test](#3-hypothesis-test)
   - [4.) Find p value](#4-find-p-value)
   - [5 significance](#5-significance)
@@ -16,7 +16,7 @@
 ## 1.) Make Claim
  - For example if we want to measure a drug to see if it has an effect on blood pressure our claim would be: Our drug has an effect on blood pressure.
 
-## 2.) Population and Aample
+## 2.) Population and Sample
  - Because we want to test if the drug has an effect on blood pressure our population will be all people with high blood pressure. 
  - Its extremely unrealistic to try the drug on everyone in the world with high blood pressure so we will get a sample of people instead.   
 
