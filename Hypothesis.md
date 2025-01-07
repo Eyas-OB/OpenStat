@@ -1,13 +1,11 @@
 # Hypothesis Testing 
 
-- [Hypotheses test](#hypotheses-test)
+- [Hypothesis Testing](#hypothesis-testing)
   - [When do we want to use a Hypothesis test?](#when-do-we-want-to-use-a-hypothesis-test)
-  - [1 make claim](#1-make-claim)
-  - [2 population and sample](#2-population-and-sample)
-  - [3 hypothesis test](#3-hypothesis-test)
-  - [4 find p value](#4-find-p-value)
-    - [what is a p-value](#what-is-a-p-value)
-    - [how to find a p-value](#how-to-find-a-p-value)
+  - [1.) Make Claim](#1-make-claim)
+  - [2.) Population and Aample](#2-population-and-aample)
+  - [3.) Hypothesis Test](#3-hypothesis-test)
+  - [4.) Find p value](#4-find-p-value)
   - [5 significance](#5-significance)
   - [6 error](#6-error)
 
@@ -24,18 +22,24 @@
 
 ## 3.) Hypothesis Test
  - Now we are going to test the claim from step 1 using data in our sample. 
- - First to test our claim we will need to establish our assumptions in hypothesis testing we have 2 assumptions. 
- - **Null hypotheses: H0:**
+ - First to test our claim we will need to establish our assumptions in hypothesis testing we have 2 assumptions: 
+
+**Null hypotheses: H0:**
+
  - The null hypothesis is what we hold to be true in this case what we hold to be true is the drug has no effect on blood pressure.  
- - **alternative hypothesis: Ha:**  
+
+**alternative hypothesis: Ha:**  
+
  - When we do a hypothesis test our alternative hypothesis is what we are trying to prove so in this case we want to prove that the drug has an effect on blood pressure. 
 
 ## 4.) Find p value
-**what is a p-value**
+**What is a p-value**
  - A p value is a number between 0 and 1 that tells us how likely we are to get a sample that deviates from the null hypothesis or one that deviates more by random chance. 
  - Low p value means that if the null hypothesis is true then we are likely to get a result like the one we saw or one that deviates even more.
  - A low p-value suggests strong evidence against the null hypothesis. 
-**how to find a p-value**
+
+**How to find a p-value**
+
  - There are multiple ways to find the p-value, and the method depends on the type of data and the test we are performing:
  - Z-test: Used for large samples with known population variance.
  - T-test: Used for small samples or when the population variance is unknown.
