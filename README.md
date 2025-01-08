@@ -1,9 +1,3 @@
----
-layout: default
-title: Home
----
+# Open Source Stats Notes 
 
-# Welcome to My Site
-
-This content comes from README.md.
-
+[Hypothesis Testing](Hypothesis.md)
