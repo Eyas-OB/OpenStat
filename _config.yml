@@ -1,1 +1,13 @@
-theme: jekyll-theme-Cayman
+title: Simple Lanyon Site
+remote_theme: "poole/lanyon"
+
+# Sidebar links
+sidebar_links:
+  - title: "Home"
+    url: "/"  # This points to your README.md as the homepage
+  - title: "Hypothesis Testing"
+    url: "Hypothesis"  # Replace 'myfile' with the Markdown file name without .md
+
+# Theme settings
+sidebar: left  # or 'right' if you prefer
+show_sidebar: true
