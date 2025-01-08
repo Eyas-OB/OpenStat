@@ -1,4 +1,1 @@
-remote_theme: zendesk/jekyll-theme-zendesk-garden@main
-
-id: README
-
+theme: jekyll-theme-Cayman
