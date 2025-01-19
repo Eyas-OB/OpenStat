@@ -7,7 +7,7 @@
   - [3.) Hypothesis Test](#3-hypothesis-test)
   - [4.) Find p value](#4-find-p-value)
   - [5.) significance](#5-significance)
-  - [6.) error](#6-error)
+  - [6.) Error](#6-error)
 
 
 ## When do we want to use a Hypothesis test?
@@ -61,9 +61,10 @@
 | \( P <= 0.01 \)       | Very strong evidence against \(H_0\).         | Reject \(H_0\).                    | Very likely proof for \(H_a\).        |
 
 
-## 6.) error 
+## 6.) Error 
  **Type I Error:**
  - Rejecting the null hypothesis when it is true. This is also called a 'false positive.' - or we can have a sample that is so close to the mean even if the null is true.
  
  **Type II Error:**
  - Failing to reject the null hypothesis when it is false. This is also called a 'false negative.'
+
