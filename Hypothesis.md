@@ -1,3 +1,8 @@
+---
+layout: default
+title: Hypothesis Testing
+---
+
 # Hypothesis Testing 
 
 - [Hypothesis Testing](#hypothesis-testing)
